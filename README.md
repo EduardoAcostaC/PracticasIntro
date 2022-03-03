@@ -18,8 +18,8 @@ Descripción:
 	- [Toma de requerimientos]
     - [Crea tu buyer persona]
 	- [Publico objetivo]
-	- [Crea tu primer Wireframe UX]
-	- [Ahora el UI]
+	- [Crea tu primer Wireframe UX] 
+	- [Ahora el UI] Puedes ver el UI elaborado en https://www.figma.com/proto/tOGcETHMnKuucnBUxCp3Nz/Untitled?node-id=4%3A27&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A27
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
